@@ -11,7 +11,7 @@ The data used to verify the models' skills is a CSV file containg some informati
 
 - round number
 - sum of points from the recent 5 matches (United)
-- sum of point from the recent 5 matches (opponent)
+- sum of points from the recent 5 matches (opponent)
 - goal difference from the recent 5 matches (United)
 - location of the game (home/away)
 - last season position of the opponent
