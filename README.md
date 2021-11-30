@@ -30,6 +30,6 @@ Basically, value 1 means United's win, 0 is a draw and -1 is a win of the oppone
 
 After all iterations, a summary is printed:
 
-<img width="349" alt="b" src="https://user-images.githubusercontent.com/72979673/144042457-cbfb7068-e6d0-417b-bdf5-801852f7bd4b.png">
+<img width="356" alt="b" src="https://user-images.githubusercontent.com/72979673/144043322-3b044160-c5d3-4de4-952f-5777775a05b4.png">
 
 RBFNN source: https://towardsdatascience.com/most-effective-way-to-implement-radial-basis-function-neural-network-for-classification-problem-33c467803319
