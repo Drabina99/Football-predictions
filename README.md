@@ -17,7 +17,7 @@ The data used to verify the models' skills is a CSV file containg some informati
 - last season position of the opponent
   (value 18 for the winner of Championship, 19 for the runner-up and 20 for the last newcomer)
   
-By default there are 10 iterations. The data is shuffled in each of it. Then, models are trained on some training data and verified on test data.
+By default there are 10 iterations. The data is shuffled in each of it. Then, models are trained on some training data and verified on the test data.
 After each iteration predictions can be seen in a form of a table:
 
 <img width="847" alt="a" src="https://user-images.githubusercontent.com/72979673/144042364-f28e403e-c670-4b6f-a7ab-b15b86786a76.png">
